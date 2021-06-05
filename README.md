@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Hi there I'm Rwishav👋
 I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I love building impactful open source projects and attending hackathons whenever I can.<br>
