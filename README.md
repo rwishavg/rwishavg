@@ -1,12 +1,19 @@
+##**<div align="center"> Hi there,  <br> I'm Rwishav👋</div>**
 
-## Hi there, I'm Rwishav👋
 I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I love building impactful open source projects.
 <br>
+
 ## Portfolio: 
-https://rwishavg.github.io/portfolio/
+
+<div align="center">
+<a href="https://rwishavg.github.io/portfolio/" target="_blank">
+<img src=https://icon-library.com/images/icon-developer/icon-developer-16.jpg=for-the-badge&logo=github&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+</div>
+
 <br>
 
-## Connect with me  
+## Connect with Me:  
 <div align="center">
 <a href="https://github.com/rwishavg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,6 +25,10 @@ https://rwishavg.github.io/portfolio/
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+----
+
+##About:
 
 - 🌱 I’m currently learning Web Development frameworks from the MERN stack
 - 👯 I'm looking to collaborate on any web development projects with interesting ideas
