@@ -5,8 +5,19 @@ I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I lov
 ## Portfolio: 
 https://rwishavg.github.io/portfolio/
 <br>
-## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rwishav/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rwishavg)
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rwishavg" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/rwishav/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/rwishavvv/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 - 🌱 I’m currently learning Web Development frameworks from the MERN stack
 - 👯 I'm looking to collaborate on any web development projects with interesting ideas
@@ -16,4 +27,19 @@ https://rwishavg.github.io/portfolio/
 [![Rwishav's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rwishavg&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-⭐️ From [Rwishav Ghosh](https://github.com/rwishavg)
+## Recent Blog Posts  
+  
+<br/>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rwishavg&&style=flat-square" align="center" />
+</div>  
+  
+<br/>  
+
+<br />
+
+----
+
