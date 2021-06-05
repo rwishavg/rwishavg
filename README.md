@@ -20,7 +20,7 @@ I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I lov
 
 ----
 
-##About:
+## About:
 
 - 🌱 I’m currently learning Web Development frameworks from the MERN stack
 - 👯 I'm looking to collaborate on any web development projects with interesting ideas
@@ -30,7 +30,7 @@ I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I lov
 [![Rwishav's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rwishavg&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-## Recent Blog Posts  
+## Profile Views:  
   
 <br/>  
 
