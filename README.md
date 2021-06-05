@@ -1,17 +1,10 @@
-##**<div align="center"> Hi there,  <br> I'm Rwishav👋</div>**
-
+##Hi there,
+##I'm Rwishav👋
+<br>
 I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I love building impactful open source projects.
 <br>
 
-## Portfolio: 
-
-<div align="center">
-<a href="https://rwishavg.github.io/portfolio/" target="_blank">
-<img src=https://icon-library.com/images/icon-developer/icon-developer-16.jpg=for-the-badge&logo=github&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<br>
+----
 
 ## Connect with Me:  
 <div align="center">
