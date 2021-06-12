@@ -36,7 +36,6 @@ I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I lov
   />&nbsp;<i><b>Git Activity</b></i>
 </p>
 <br />
-<br />
 <p>
   <img
     align="left"
