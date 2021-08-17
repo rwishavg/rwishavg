@@ -61,7 +61,7 @@ I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I lov
 
 <br/>
 
-<img align="right" height="270px" alt="" width="350" src="https://media.giphy.com/media/5xaOcLSjCuroxKfZ4yI/giphy.gif"/> </a>
+<img align="center" height="270px" alt="" width="350" src="https://media.giphy.com/media/5xaOcLSjCuroxKfZ4yI/giphy.gif"/> </a>
 
 <br/>
 
