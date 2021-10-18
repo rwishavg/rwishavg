@@ -61,7 +61,7 @@ I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I lov
 
 <br/>
 
-<img align="center" height="270px" alt="" width="350" src="https://media.giphy.com/media/5xaOcLSjCuroxKfZ4yI/giphy.gif"/> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwishavg&layout=compact)](https://github.com/rwishavg/rwishavg)
 
 <br/>
 
