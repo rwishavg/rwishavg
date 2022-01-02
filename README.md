@@ -1,6 +1,6 @@
 ### `hello world!` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
-I'm Rwishav Ghosh, a 19-year old tech enthusiast learning web development. I love collaborating & building impactful open source projects.
+I'm Rwishav Ghosh, a 20-year old tech enthusiast learning web development. I love collaborating & building impactful open source projects.
 <br>
 
 
